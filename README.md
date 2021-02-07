@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a creative technologist working as a full stack developer with a focus on front-end technologies, currently based in Berlin.
+
+- 💻 I work mostly on the web platform
+- 🌱 I’m currently learning embedded systems
+
+You can see more of my work and projects at [adamham.dev](https://adamham.dev)
+
+
 <!--
 **botoxparty/botoxparty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
