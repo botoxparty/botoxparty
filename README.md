@@ -5,7 +5,7 @@ I'm a creative technologist working as a full stack developer with a focus on fr
 - 💻 I work mostly on the web platform
 - 🌱 I’m currently learning embedded systems
 
-You can see more of my work and projects at [adamham.dev](https://adamham.dev)
+You can see more of my projects at [adamham.dev](https://adamham.dev)
 
 
 <!--
