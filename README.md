@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm a creative technologist working as a full stack developer with a focus on front-end technologies, currently based in Berlin.
+I'm a technologist.
 
-- 💻 I work mostly on the web platform
-- 🌱 I’m currently learning embedded systems
-
-You can see more of my projects at [adamham.dev](https://adamham.dev)
+- 💻 web platform
+- 🌱 embedded systems
+- 🔈 audio hardware and software
 
 
 <!--
