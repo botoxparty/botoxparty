@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm a technologist.
-
 - 💻 web platform
 - 🌱 embedded systems
 - 🔈 audio hardware and software
